@@ -12,4 +12,5 @@ Updates made:
 * Changed the hero image from a background picture to being in the code so that an <alt> tag could be added for the benefit of screen reader technology.
 * Added <alt> tags to all of the images on the page
 
-Link to page: 
+Link to page:  [Horiseon] (https://sfunk11.github.io/refactor-HW1/index.html)
+
